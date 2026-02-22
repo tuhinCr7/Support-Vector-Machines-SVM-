@@ -32,4 +32,4 @@ Dataset obtained from Kaggle.
 To understand the machine learning workflow from preprocessing to model evaluation.
 
 ## Author
-Tuhin Alam
+ Md Tuhin Alam Bijoy
